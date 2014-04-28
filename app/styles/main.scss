@@ -1,0 +1,11 @@
+$icon-font-path: "/bower_components/sass-bootstrap/fonts/";
+
+@import 'sass-bootstrap/lib/bootstrap';
+
+.done {
+	text-decoration:line-through;
+	color:grey;
+}
+.jumbotron {
+	margin-top:10%;
+}
